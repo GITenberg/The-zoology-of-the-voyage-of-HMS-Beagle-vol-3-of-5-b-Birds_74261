@@ -1,0 +1,70 @@
+_repo: The-zoology-of-the-voyage-of-HMS-Beagle-vol-3-of-5-b-Birds_74261
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Eyton, T. C. (Thomas Campbell)
+    alias: Eyton, Thomas Campbell
+    birthdate: 1809
+    deathdate: 1880
+    gutenberg_agent_id: '57399'
+    url: http://www.gutenberg.org/2009/agents/57399
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Campbell_Eyton
+  - agent_name: Gray, George Robert
+    alias: Gray, G. R.
+    birthdate: 1808
+    deathdate: 1872
+    gutenberg_agent_id: '57401'
+    url: http://www.gutenberg.org/2009/agents/57401
+    wikipedia: https://en.wikipedia.org/wiki/George_Robert_Gray
+  illustrator:
+    agent_name: Gould, Elizabeth
+    aliases:
+    - Coxen, Elizabeth
+    - Gould, E.
+    birthdate: 1804
+    deathdate: 1841
+    gutenberg_agent_id: '57408'
+    url: http://www.gutenberg.org/2009/agents/57408
+creator:
+  author:
+    agent_name: Gould, John
+    birthdate: 1804
+    deathdate: 1881
+    gutenberg_agent_id: '7467'
+    url: http://www.gutenberg.org/2009/agents/7467
+    wikipedia: https://en.wikipedia.org/wiki/John_Gould
+  editor:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Darwin
+description: '"The accompanying illustrations [...] were taken from sketches made
+  by Mr. Gould himself, and executed on stone by Mrs. Gould[.]"'
+gutenberg_issued: '2024-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74261'
+language: en
+pgterms:marc904: https://www.biodiversitylibrary.org/ia/NHM_UK_L_3967751001
+pgterms:marc905: 20191103160608darwin
+pgterms:marc906: '1839'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biodiversity Heritage
+  Library.)
+publication_note: '  $aLondon :$bSmith, Elder & Co, $c1839, copyright 1840, copyright
+  1841, copyright 1843.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beagle Expedition (1831-1836)'
+- !lcsh 'Birds'
+- !lcsh 'Zoology'
+- !lcc 'QL'
+- GITenberg
+title: 'The zoology of the voyage of H.M.S. Beagle [vol. 3 of 5] : $b Birds'
+url: http://www.gutenberg.org/ebooks/74261
