@@ -25,6 +25,9 @@ contributor:
     deathdate: 1841
     gutenberg_agent_id: '57408'
     url: http://www.gutenberg.org/2009/agents/57408
+covers:
+- cover_type: archival
+  image_path: 74261-h/images/cover.jpg
 creator:
   author:
     agent_name: Gould, John
@@ -43,6 +46,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Charles_Darwin
 description: '"The accompanying illustrations [...] were taken from sketches made
   by Mr. Gould himself, and executed on stone by Mrs. Gould[.]"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74261#The-zoology-of-the-voyage-of-HMS-Beagle-vol-3-of-5-b-Birds
 gutenberg_issued: '2024-08-15'
 gutenberg_type: Text
 identifiers:
